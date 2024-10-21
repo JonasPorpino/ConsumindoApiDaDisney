@@ -162,6 +162,58 @@ Testando essas modificações, a imagem do personagem deve ser exibida corretame
 
 # Mostrar personagens com entrada de id pelo usuário
 
+Ids disponíveis
+112
+18
+16
+45
+7
+12
+36
+139
+152
+181
+204
+215
+293
+295
+310
+327
+336
+337
+342
+347
+350
+364
+380
+384
+404
+410
+440
+442
+450
+469
+474
+490
+500
+529
+543
+566
+157
+189
+206
+207
+223
+241
+247
+268
+278
+285
+291
+303
+322
+351
+
 Aqui está o código atualizado que inclui uma `Entry` (campo de entrada) para que o usuário possa digitar o ID do personagem. A função `buscar_personagem()` foi modificada para buscar o personagem com base no ID fornecido pelo usuário.
 
 ```python
